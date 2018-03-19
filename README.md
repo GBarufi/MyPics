@@ -3,7 +3,7 @@ AngularJS v1.3 simple project developed on Alura course.
 
 ### Prerequisites
 
-To see the project, you'll need to install:
+To run the project, you'll need to install:
 * [**NodeJS**](https://nodejs.org/en/)
 
 ### Running the project
